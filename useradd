@@ -5,7 +5,7 @@
 SHELL=/usr/bin/bash
 
 # The default group for users
-GROUP=users,dialout,cdrom,floppy,audio,video,plugdev,users,system,radio,android_graphics,android_input,android_audio,android_net_bt_admin,android_net_bt,android_inet,android_inet_raw,android_inet_admin,wheel,render,bluetooth,input,netdev
+GROUP=users,floppy,audio,video,plugdev,users,system,radio,android_graphics,android_input,android_audio,android_net_bt_admin,android_net_bt,android_inet,android_inet_raw,android_inet_admin,wheel,render,input,tty
 
 # The default home directory.
 HOME=/home
